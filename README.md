@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/illia-wezar-112aa623a/">
+    <a href="https://www.linkedin.com/in/illia-borysenko-112aa623a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/il_WezaR">
@@ -28,7 +28,7 @@ I am iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :zap: More about me in my CV.
 
-- :calling: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wezar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/illia-wezar-112aa623a/)
+- :calling: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wezar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/illia-borysenko-112aa623a/)
 
 ---
 
